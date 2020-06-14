@@ -6,6 +6,10 @@
 
 A guided exploratory data analysis with lots of tips and tricks to get the most value out of your data.
 
+<p align="center">
+  <img width="" height="" src="https://i4.sndcdn.com/avatars-000185307366-wqwbe1-t500x500.jpg">
+</p>
+
 #### About the Dataset
 
 Name:
