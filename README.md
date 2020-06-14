@@ -35,7 +35,7 @@ Contains Spotify information of 610 resolved tracks, out of 638 detected in Plan
 
 #### Modifications: first 5 values removed from the 'time_signature' column.
 
-### Prerequistes:
+# Prerequistes:
 
 Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 
@@ -47,7 +47,7 @@ Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 * Seaborn
 * Jupyter Notebook
 
-### Pre-Workshop Preperation:(Highly Recommended)
+# Pre-Workshop Preperation:(Highly Recommended)
 
 1) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
 
@@ -57,7 +57,7 @@ Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 
 4) Guide to Exploratory Data Analysis: https://medium.com/swlh/guide-to-exploratory-data-analysis-for-data-science-294baff8b741
 
-### Additional Resources: (Optional)
+# Additional Resources: (Optional)
 
 1) Types of Statistics used in Data Science - Part 1: https://medium.com/@vinitasilaparasetty/types-of-statistics-used-in-data-science-part-1-8bf8b2500552
 
