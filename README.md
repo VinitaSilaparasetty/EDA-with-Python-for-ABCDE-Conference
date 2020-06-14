@@ -10,25 +10,44 @@ A guided exploratory data analysis with lots of tips and tricks to get the most 
   <img width="" height="" src="https://i4.sndcdn.com/avatars-000185307366-wqwbe1-t500x500.jpg">
 </p>
 
-#### About the Dataset
+### About the Dataset
 
-Name:
+#### Name: PlanetaOfficial
 
-Description:
+#### Description: 
+Bulgarian pop-folk (hereinafter referred to as chalga) is a dance genre, stemming from ethno-pop, with strong hints of Oriental rhythms and instrumentals. Chalga is one of many branches of Balkan folk throughout the peninsula (turbofolk in Serbia, manele in Romania etc.) 
+
+Payner LTD is a Bulgarian record label and production studio, founded in 1990. It is currently considered the largest record label in the country, producing mainly in both Bulgarian folk and chalga genres. The company has active presence in television, taking ownership of three channels: 'Planeta TV', 'Planeta Folk' and 'Planeta HD'.
+
+Payner LTD also maintains activity in the Internet, particularly in YouTube. Their main channel in YouTube, 'PlanetaOfficial', publishes music content exclusively. 'PlanetaOfficial' can be also credited with holding the largest audience in Bulgaria - for the time being, it has got 2.0 million subscribers and 4.4 billion total video views, dominating on the national YouTube scene.
+
+#### Source: https://www.kaggle.com/astronasko/payner
+
+#### Contents:
+
+Contains Spotify information of 610 resolved tracks, out of 638 detected in PlanetaOfficial, in the period 2014-2019. Every row is a track, and contains:
+
+* the unique Spotify ID of the song;
+* pre-processed names of the first three artists in a song (if such are present), according to their order of mention;
+* name of the track;
+* datetime of the video upload in PlanetaOfficial;
+* various Spotify audio features.
+
+#### Modifications: first 5 values removed from the 'time_signature' column.
 
 ### Prerequistes:
 
 Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 
-*Python 3  
-*Numpy 
-*Scipy
-*Matplotlib
-*Pandas
-*Seaborn
-*Jupyter Notebook
+* Python 3  
+* Numpy 
+* Scipy
+* Matplotlib
+* Pandas
+* Seaborn
+* Jupyter Notebook
 
-#### Pre-Workshop Preperation:(Highly Recommended)
+### Pre-Workshop Preperation:(Highly Recommended)
 
 1) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
 
@@ -38,7 +57,7 @@ Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 
 4) Guide to Exploratory Data Analysis: https://medium.com/swlh/guide-to-exploratory-data-analysis-for-data-science-294baff8b741
 
-#### Additional Resources: (Optional)
+### Additional Resources: (Optional)
 
 1) Types of Statistics used in Data Science - Part 1: https://medium.com/@vinitasilaparasetty/types-of-statistics-used-in-data-science-part-1-8bf8b2500552
 
@@ -47,6 +66,3 @@ Installation Instructions:https://independent.academia.edu/VinitaSilaparasetty
 3) Primer on Quartiles: https://medium.com/@vinitasilaparasetty/quartiles-for-beginners-in-data-science-2ca5a640b07b
 
 4) Data Structures: https://medium.com/@vinitasilaparasetty/data-structures-in-data-science-4f47d9c4ab94
-
-
-
