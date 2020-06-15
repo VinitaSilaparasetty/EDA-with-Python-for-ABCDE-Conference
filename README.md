@@ -18,7 +18,7 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 
 #### Method 1:
 
-* Download the Worksbook from this repo
+* Download the Workbook from this repo.
 * Fill in the code as I demonstrate during the conference.
 
 #### Method 2:
