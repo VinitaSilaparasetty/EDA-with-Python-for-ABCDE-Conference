@@ -14,6 +14,19 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
 
+### Instructions:
+
+#### Method 1:
+
+* Download the Worksbook from this repo
+* Fill in the code as I demonstrate during the conference.
+
+#### Method 2:
+
+* Click the 'Open in Colab' button.
+* Once again choose the option, 'Open in Colab'.
+* Make a copy of the notebook.
+* Fill in the code as I demonstrate during the conference.
 
 ### About the Dataset
 
