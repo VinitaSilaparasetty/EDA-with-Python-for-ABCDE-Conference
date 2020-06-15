@@ -86,3 +86,9 @@ Installation Instructions can be found here:https://independent.academia.edu/Vin
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
+
+### Permissions
+
+You may make copies of the contents of this repo, but kindly mention mention me in the credits.
+
+#### Image credits: https://soundcloud.com/popfolksoutheasteurope
