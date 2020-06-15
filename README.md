@@ -89,6 +89,6 @@ Installation Instructions can be found here:https://independent.academia.edu/Vin
 
 ### Permissions
 
-You may make copies of the contents of this repo, but kindly mention mention me in the credits.
+You may make copies of the contents of this repo, but kindly mention me in the credits.
 
 #### Image credits: https://soundcloud.com/popfolksoutheasteurope
