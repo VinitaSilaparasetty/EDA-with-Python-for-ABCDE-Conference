@@ -39,7 +39,7 @@ Contains Spotify information of 610 resolved tracks, out of 638 detected in Plan
 * First 5 entries removed from the 'time_signature' column.
 * Some rows have been duplicated.
 
-# Prerequistes:
+# Prerequisites:
 
 Installation Instructions can be found here:https://independent.academia.edu/VinitaSilaparasetty
 
@@ -51,7 +51,7 @@ Installation Instructions can be found here:https://independent.academia.edu/Vin
 * Seaborn
 * Jupyter Notebook
 
-# Pre-Workshop Preperation:(Highly Recommended)
+# Pre-Workshop Preparation:(Highly Recommended)
 
 1) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
 
