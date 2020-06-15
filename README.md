@@ -6,7 +6,7 @@
 
 Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data. In this workshop you will do a guided EDA with lots of helpful tips and tricks to improve your skills.
 
-### Learn more:
+### Learn more:https://www.abcde.asia/in
 
 <p align="center">
   <img width="" height="" src="https://i4.sndcdn.com/avatars-000185307366-wqwbe1-t500x500.jpg">
