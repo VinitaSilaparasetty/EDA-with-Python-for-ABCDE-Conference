@@ -12,7 +12,7 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
   <img width="" height="" src="https://i4.sndcdn.com/avatars-000185307366-wqwbe1-t500x500.jpg">
 </p>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
 
 
 ### About the Dataset
@@ -72,4 +72,4 @@ Installation Instructions can be found here:https://independent.academia.edu/Vin
 4) Data Structures: https://medium.com/@vinitasilaparasetty/data-structures-in-data-science-4f47d9c4ab94
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
