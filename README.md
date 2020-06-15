@@ -4,7 +4,7 @@
 
 ### Workshop Kit
 
-A guided exploratory data analysis with lots of tips and tricks to get the most value out of your data.
+Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data. In this workshop you will do a guided EDA with lots of helpful tips and tricks to improve your skills.
 
 ### Learn more:
 
@@ -34,7 +34,10 @@ Contains Spotify information of 610 resolved tracks, out of 638 detected in Plan
 * datetime of the video upload in PlanetaOfficial;
 * various Spotify audio features.
 
-#### Modifications: first 5 values removed from the 'time_signature' column.
+#### Modifications: 
+
+* First 5 entries removed from the 'time_signature' column.
+* Some rows have been duplicated.
 
 # Prerequistes:
 
