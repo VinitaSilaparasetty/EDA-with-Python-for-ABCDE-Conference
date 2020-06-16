@@ -61,6 +61,7 @@ Installation Instructions can be found here:https://independent.academia.edu/Vin
 * Scipy
 * Matplotlib
 * Pandas
+* Pandas-profiling
 * Seaborn
 * Jupyter Notebook
 
