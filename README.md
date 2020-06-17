@@ -1,6 +1,6 @@
 ![Level Intermediate](https://img.shields.io/badge/Level-Intermediate-blue.svg?style=plastic). ![Python 3.8.2](https://img.shields.io/badge/Python-3.8.2-blue.svg?style=plastic). ![Numpy 1.18.5](https://img.shields.io/badge/Numpy-1.18.5-blue.svg?style=plastic). ![Scipy 1.4.1](https://img.shields.io/badge/Scipy-1.4.1-blue.svg?style=plastic). ![Matplotlib 3.2.1](https://img.shields.io/badge/Matplotlib-3.2.1-blue.svg?style=plastic)  ![Pandas 1.0.4](https://img.shields.io/badge/Pandas-1.0.4-blue.svg?style=plastic)  ![Seaborn 0.10.1](https://img.shields.io/badge/Seaborn-0.10.1-blue.svg?style=plastic)  ![Jupyter_Notebook 6.0.3](https://img.shields.io/badge/Jupyter_Notebook-6.0.3-blue.svg?style=plastic) ![Pandas_Profiling 2.8.0](https://img.shields.io/badge/Pandas_Profiling-2.8.0-blue.svg?style=plastic)
 
-# EDA-with-Python-for-ABCDE-Conference
+# EDA with Python for ABCDE Conference
 
 ### Workshop Kit
 
@@ -8,9 +8,28 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 
 ### Learn more:https://www.abcde.asia/in
 
+### About the Instructor
+
 <p align="center">
-  <img width="" height="" src="https://i4.sndcdn.com/avatars-000185307366-wqwbe1-t500x500.jpg">
+  <img width="" height="" src="https://scontent.fblr1-3.fna.fbcdn.net/v/t1.0-9/93956790_2564938780435027_7214499176908849152_o.png?_nc_cat=103&_nc_sid=e3f864&_nc_ohc=mqAfcdA-YNoAX8EBjyn&_nc_ht=scontent.fblr1-3.fna&oh=aa606691c1b10543dcb7a1328a090967&oe=5F103301">
 </p>
+
+Vinita Silaparasetty is passionate about the field of Artificial Intelligence, particularly, Machine Learning, Deep Learning and Neural Networks. She aims to share this passion with others.
+
+1) Reviewer for Oxford Publications - The Computer Journal
+
+2) Quora Top writer (2018) in the Artificial Intelligence category.
+
+3) Co-organizer of the "Bangalore Artificial Intelligence Meetup" group
+
+4) Co-organizer of the "AI for Women" meetup group
+
+Scan this code to see her latest book " Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras", Published by Apress New York.
+
+<p align="center">
+  <img width="50" height="50" src="https://github.com/VinitaSilaparasetty/EDA-with-Python-for-ABCDE-Conference/blob/master/qrcode.png?raw=true">
+</p>
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
 
@@ -54,7 +73,7 @@ Contains Spotify information of 610 resolved tracks, out of 638 detected in Plan
 
 # Prerequisites:
 
-Installation Instructions can be found here:https://independent.academia.edu/VinitaSilaparasetty
+Ensure that you have the following programmes and packages installed on your system. Installation Instructions can be found here:https://independent.academia.edu/VinitaSilaparasetty
 
 * Python 3  
 * Numpy 
