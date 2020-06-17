@@ -27,7 +27,7 @@ Vinita Silaparasetty is passionate about the field of Artificial Intelligence, p
 Scan this code to see her latest book " Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras", Published by Apress New York.
 
 <p align="center">
-  <img width="50" height="50" src="https://github.com/VinitaSilaparasetty/EDA-with-Python-for-ABCDE-Conference/blob/master/qrcode.png?raw=true">
+  <img width="" height="" src="https://github.com/VinitaSilaparasetty/EDA-with-Python-for-ABCDE-Conference/blob/master/qrcode.png?raw=true">
 </p>
 
 
