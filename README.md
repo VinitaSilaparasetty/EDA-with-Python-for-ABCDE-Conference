@@ -4,7 +4,7 @@
 
 ### Workshop Kit
 
-Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data. In this workshop you will do a guided EDA with lots of helpful tips and tricks to improve your skills.
+Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data. In this workshop you will do a guided EDA with lots of helpful tips and best practices to improve your skills.
 
 ### Learn more:https://www.abcde.asia/in
 
