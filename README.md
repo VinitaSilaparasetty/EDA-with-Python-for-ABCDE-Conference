@@ -24,11 +24,8 @@ Vinita Silaparasetty is passionate about the field of Artificial Intelligence, p
 
 4) Co-organizer of the "AI for Women" meetup group
 
-Scan this code to see her latest book " Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras", Published by Apress New York.
+Preorder her latest book " Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras", Published by Apress New York: https://www.apress.com/gp/book/9781484258019
 
-<p align="center">
-  <img width="200" height="200" src="https://github.com/VinitaSilaparasetty/EDA-with-Python-for-ABCDE-Conference/blob/master/qrcode.png?raw=true">
-</p>
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
