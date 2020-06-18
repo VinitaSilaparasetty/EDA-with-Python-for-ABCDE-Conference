@@ -4,7 +4,7 @@
 
 ### Workshop Kit
 
-Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data. In this workshop you will do a guided EDA with lots of helpful tips and best practices to improve your skills.
+Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data using Python. In this workshop you will do a guided EDA with lots of helpful tips and best practices to improve your skills.
 
 ### Learn more:https://www.abcde.asia/in
 
@@ -30,7 +30,7 @@ Preorder her latest book " Deep Learning Projects Using TensorFlow 2: Neural Net
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
 
-### Instructions:
+# Instructions:
 
 #### Method 1:
 
@@ -44,9 +44,9 @@ Preorder her latest book " Deep Learning Projects Using TensorFlow 2: Neural Net
 * Make a copy of the notebook.
 * Fill in the code as I demonstrate during the conference.
 
-### About the Dataset
+# About the Dataset
 
-#### Name: PlanetaOfficial
+#### Name: Bulgarian PopFolk Music
 
 #### Description: 
 Bulgarian pop-folk (hereinafter referred to as chalga) is a dance genre, stemming from ethno-pop, with strong hints of Oriental rhythms and instrumentals. Chalga is one of many branches of Balkan folk throughout the peninsula (turbofolk in Serbia, manele in Romania etc.) Payner LTD is a Bulgarian record label and production studio, founded in 1990. It is currently considered the largest record label in the country, producing mainly in both Bulgarian folk and chalga genres. 
@@ -107,5 +107,3 @@ Ensure that you have the following programmes and packages installed on your sys
 ### Permissions
 
 You may make copies of the contents of this repo, but kindly mention me in the credits.
-
-#### Image credits: https://soundcloud.com/popfolksoutheasteurope
