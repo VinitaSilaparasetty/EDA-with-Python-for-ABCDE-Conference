@@ -11,7 +11,7 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 ### About the Instructor
 
 <p align="center">
-  <img width="" height="" src="https://scontent.fblr1-3.fna.fbcdn.net/v/t1.0-9/93956790_2564938780435027_7214499176908849152_o.png?_nc_cat=103&_nc_sid=e3f864&_nc_ohc=mqAfcdA-YNoAX8EBjyn&_nc_ht=scontent.fblr1-3.fna&oh=aa606691c1b10543dcb7a1328a090967&oe=5F103301">
+  <img width="" height="" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/105023518_2615103578751880_5389051389238009337_o.png?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=akqvMV2Zp-IAX9WWMr0&_nc_ht=scontent.fblr1-4.fna&oh=9943159a7209b628629dde683deb8433&oe=5F1282CF">
 </p>
 
 Vinita Silaparasetty is passionate about the field of Artificial Intelligence, particularly, Machine Learning, Deep Learning and Neural Networks. She aims to share this passion with others.
