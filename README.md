@@ -83,7 +83,7 @@ Ensure that you have the following programmes and packages installed on your sys
 
 # Pre-Workshop Preparation:(Highly Recommended)
 
-1) Go through 'Data dictionary' and 'Key definitions'.
+1) Go through 'Data dictionary.pdf' and 'Key definitions.pdf'.
 
 2) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
 
