@@ -83,13 +83,15 @@ Ensure that you have the following programmes and packages installed on your sys
 
 # Pre-Workshop Preparation:(Highly Recommended)
 
-1) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
+1) Go through 'Data dictionary' and 'Key definitions'.
 
-2) Guide to Handling Missing Values: https://medium.com/@vinitasilaparasetty/guide-to-handling-missing-values-in-data-science-37d62edbfdc1
+2) Guide to using a Data Dictionary: https://medium.com/@vinitasilaparasetty/guide-to-using-a-data-dictionary-1e4c683a2100
 
-3) Guide to Data Cleaning: https://medium.com/@vinitasilaparasetty/guide-to-data-cleaning-for-data-science-53e056c8eb98
+3) Guide to Handling Missing Values: https://medium.com/@vinitasilaparasetty/guide-to-handling-missing-values-in-data-science-37d62edbfdc1
 
-4) Guide to Exploratory Data Analysis: https://medium.com/swlh/guide-to-exploratory-data-analysis-for-data-science-294baff8b741
+4) Guide to Data Cleaning: https://medium.com/@vinitasilaparasetty/guide-to-data-cleaning-for-data-science-53e056c8eb98
+
+5) Guide to Exploratory Data Analysis: https://medium.com/swlh/guide-to-exploratory-data-analysis-for-data-science-294baff8b741
 
 # Additional Resources: (Optional)
 
