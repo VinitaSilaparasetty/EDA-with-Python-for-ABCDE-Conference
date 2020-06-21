@@ -65,8 +65,12 @@ Contains Spotify information of 610 resolved tracks, out of 638 detected in Plan
 
 #### Modifications: 
 
+For the purpose of this workshop, the following changes have been made:
+
 * First 5 entries removed from the 'time_signature' column.
 * Some rows have been duplicated.
+
+The dataset with the above changes has been uploaded in this repository.
 
 # Prerequisites:
 
