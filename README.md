@@ -11,7 +11,7 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 ### About the Instructor
 
 <p align="center">
-  <img width="" height="" src="https://www.canva.com/design/DAD5miVBScI/e8rxSGYQXbsOko9RUot9Ww/viewutm_content=DAD5miVBScI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+  <img width="" height="" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/105023518_2615103578751880_5389051389238009337_o.png?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=rE5NhumSz0EAX8L9XHj&_nc_ht=scontent.fblr1-4.fna&oh=a418ab907faebaf1118cda7a75c0ed21&oe=5F3A0FCF">
 </p>
 
 ### Connect with me on Social Media: http://www.officialvinita.wordpress.com
