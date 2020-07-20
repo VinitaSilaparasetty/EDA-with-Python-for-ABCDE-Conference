@@ -6,7 +6,7 @@
 
 Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data using Python. In this workshop you will do a guided EDA with lots of helpful tips and best practices to improve your skills.
 
-### Free Registration:https://www.abcde.asia/in
+### Update: The conference has now ended, but you can view the recording of my session here: https://youtu.be/fnoVTxLz4U8
 
 ### About the Instructor
 
