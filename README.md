@@ -115,3 +115,5 @@ Ensure that you have the following programmes and packages installed on your sys
 ### Permissions
 
 You may make copies of the contents of this repo, but kindly mention me in the credits.
+
+Kindly mention Atanas Stefanov and Vladislav Mihov, along with the original link to their dataset, if you use the dataset from this repo in your own projects.
