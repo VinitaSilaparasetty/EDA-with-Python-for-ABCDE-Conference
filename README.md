@@ -8,6 +8,8 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 
 ### Update: The conference has now ended, but you can view the recording of my session here: https://youtu.be/fnoVTxLz4U8
 
+The conclusions of the conference are available here: https://youtu.be/wf9ahUAbqa0
+
 ### About the Instructor
 
 <p align="center">
