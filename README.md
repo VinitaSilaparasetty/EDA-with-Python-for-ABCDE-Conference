@@ -3,6 +3,8 @@
 
 # EDA with Python for ABCDE Conference
 
+https://youtu.be/fnoVTxLz4U8
+
 ### Workshop Kit
 
 Learn to conduct Exploratory Data Analysis like an expert to get the most value out of your data using Python. In this workshop you will do a guided EDA with lots of helpful tips and best practices to improve your skills.
@@ -12,10 +14,6 @@ Learn to conduct Exploratory Data Analysis like an expert to get the most value 
 The conclusions of the conference are available here: https://youtu.be/wf9ahUAbqa0
 
 ### About the Instructor
-
-<p align="center">
-  <img width="" height="" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/105023518_2615103578751880_5389051389238009337_o.png?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=rE5NhumSz0EAX8L9XHj&_nc_ht=scontent.fblr1-4.fna&oh=a418ab907faebaf1118cda7a75c0ed21&oe=5F3A0FCF">
-</p>
 
 ### Connect with me on Social Media: http://www.officialvinita.wordpress.com
 
