@@ -17,18 +17,9 @@ The conclusions of the conference are available here: https://youtu.be/wf9ahUAbq
 
 ### Connect with me on Social Media: http://www.officialvinita.wordpress.com
 
-Vinita Silaparasetty is passionate about the field of Artificial Intelligence, particularly, Machine Learning, Deep Learning and Neural Networks. She aims to share this passion with others.
-
-1) Reviewer for Oxford Publications - The Computer Journal
-
-2) Quora Top writer (2018) in the Artificial Intelligence category.
-
-3) Co-organizer of the "Bangalore Artificial Intelligence Meetup" group
-
-4) Co-organizer of the "AI for Women" meetup group
+Vinita Silaparasetty is a data science instructor/trainer, author and speaker. She is passionate about the field of Artificial Intelligence, particularly, Machine Learning, Deep Learning and Neural Networks. She aims to share this passion with others.
 
 Preorder her latest book " Deep Learning Projects Using TensorFlow 2: Neural Network Development with Python and Keras", Published by Apress New York: https://www.apress.com/gp/book/9781484258019
-
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P52nmbRik1LwTG207PDLpjF3Z5QoAKJg/view?usp=sharing)
